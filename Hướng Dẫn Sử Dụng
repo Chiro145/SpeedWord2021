@@ -1,0 +1,13 @@
+*Hướng Dẫn Cài:
+Các bạn tải file và giải nén nó ra rồi lấy hết toàn bộ những gì trong file vừa giải nén rồi dán vào đường dẫn "C:\FPC\3.2.2\bin\i386-win32" hoặc khu vực lưu trữu mặc định của Frê Pascal
+Chương trình này chỉ chạy trên Free Pascal còn Turbo Pascal thì không rõ nữa
+Khi sử dụng các bạn chỉ mở file "SpeedWord.exe" nó sẽ tự động chạy chương trình và các bạn có thể sử dụng nó bình thường
+Mình chỉ chia sẻ file ".exe" chứ mình không chia sẻ code vì đó là chất xám mình bỏ ra nên mình sẽ không chia sẻ file code
+*Hướng Dẫn Sử Dụng:Sau khi mở lên các bạn bấm "Enter" để bắt đầu gõ phím, mỗi lần gõ xong 1 chữ thì các bạn cứ "Enter" cho mình không dùng dấu cách nha vì nó sẽ không hoạt động
+Vd: Nó yêu cầu nhập Hello World thì các bạn nhập từ "Hello" rồi "Enter" rồi ghi tiếp chữ World.
+Mỗi lần ghi 1 từ nó sẽ tự động cập nhật thời gian, số từ gõ đúng và số từ gõ sai ở góc bên phải màn hình, thời gian gõ của các bạn sẽ là 60 giây 
+khi bạn gõ xong thì máy sẽ in ra "Tốc độ gõ" đơn vị là WPM, độ chính xác khi gõ phím.
+Chương trình này chỉ sử dụng ngôn ngữ Tiếng Anh vì Free Pascal không hỗ trợ viết giấu 0_o nên đó là lí do tại sao mình lại chọn là Tiếng Anh, khi nào mình sẽ cập nhật Tiếng Việt 
+nhưng không có giấu trong này.
+Mẹo:Khi gõ phím cách sẽ không ảnh hưởng đến từ bạn gõ hệ thống chương trình sẽ tự động vứt đi để tránh gõ nhầm.
+>_< Cảm ơn đã theo dõi mình >_<
